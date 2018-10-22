@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 16,
+    "uniqCompNum": 21,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-pucp-version2-negro-soloescudo-128x127-1.png",
@@ -4188,7 +4188,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Efectos en el desarrollo cognitivo\n</b></p><p>El hierro está implicado en procesos neuronales, por ello al haber disminución de hierro se ven afectados procesos neuronales que afectan al desarrollo cognitivo del niño y que lo afectará en su vida adulta [6] . Durante los dos primeros años existe mayor vulnerabilidad a un daño cognitivo causado por anemia, debido a los cambios anatómicos y bioquímicos.  \n</p><p>La deficiencia de hierro afecta la regulación y la conducción de neurotransmisores como son la serotonina, la dopamina y el ácido gamma aminobutírico (GABA). Estos neurotransmisores afectan la respuesta de los niños con el ambiente que los rodea y su interacción con este. (ambiente social, afectivo y estímulos externos) [6]\n</p><p>En un estudio para Israel (Palti et. al 1985) encuentran evidencia de los efectos a largo plazo de la anemia por deficiencia de hierro, compararon exámenes de inteligencia a niños de 10 años que padecieron de anemia en una edad muy temprana con las que no también. Los niños que tuvieron anemia durante sus primeros nueve meses de vida, a los 10 a 13 años, tenían en dichas pruebas 2.2 puntos menos que los niños que no tuvieron anemia. También (Walter et al. 1989, 1990) encontraron que después de curarse de la anemia el efecto negativo en el desarrollo cognitivo no se revierte ya que esos niños siguen teniendo menores puntajes en las pruebas de desarrollo cognitivo. Estos autores también encontraron que cuando los niños tienen 5 años y padecieron de anemia en los 12 primeros meses de vida tenían en promedio un coeficiente intelectual 5 puntos menos de los que no lo padecieron.  De una igual manera Cantwell (1974) encontró en un grupo de niños en Estados Unidos que padecieron de anemia en los 6 y 18 primeros meses de vida obtenían un puntaje de coeficiente intelectual en promedio 6 puntos menor en comparación de los niños que no sufrieron anemia. Por otro lado, Lozoff (et. Al 1991) encontró que niños que padecieron de anemia entre los 12 y 23 meses de vida obtuvieron 4.1 puntos menos en las pruebas de habilidad cognitiva a los 5 años de edad. \n</p><p><b>\n</b></p><p><b>Efectos en el desarrollo conductual\n</b></p><p>Existen varios estudios que han reportado diferencias en la conducta del bebé con anemia, los cuales incluyen fatiga, temor y un apego hacia la madre (Lozoff B 1986,2011; Walter T 1983,1989,). Al igual de mostrar anomalías como irritabilidad, inquietud y falta de atención (Grantham-McGregor 2001, Lozoff B 1986,1998, Yehuda S 2008).\n</p><p>Los niños anémicos exploran y se mueven alrededor de su entorno menos que los niños no anémicos, e inducen un comportamiento menos estimulante en sus cuidadores. Se piensa que estos comportamientos y la respuesta de los cuidadores retrasan la adquisición de nuevas habilidades (Sally Grantham, Cornelius Ani, 2001).\n</p><p>Hay muchos informes de impresiones clínicas de niños anémicos que están temerosos. Se han realizado observaciones más sistemáticas en comparación con niños anémicos y no anémicos durante las pruebas con las escalas de Bayley, utilizando las calificaciones de comportamiento infantil de Bayley. Estos estudios han encontrado que los niños anémicos tienden a ser más temerosos, retraídos, tensos, poco reactivos a los estímulos habituales (Lozoff, Brittenham, Viteri, Urrutia,1982), más solemnes, menos involucrados (Honig, Oski 1984) y más infelices (Walter, Kovalskys, Stekel 1983).\n</p><p>En un estudio más extenso, se realizaron observaciones de comportamiento en una situación de juego libre de 15 minutos y durante las pruebas de desarrollo. Los niños con anemia se mantuvieron más cerca de sus cuidadores, mostraron menos placer y se mostraron más cautelosos, vacilantes y fácilmente cansados. También se realizaron un promedio de 14 observaciones puntuales durante las visitas domiciliarias, y los niños anémicos tenían más probabilidades de estar dormidos, irritables, no hacer nada, ser transportados o en la cama, y menos propensos a estar en el patio o jugar interactivamente con objetos. Durante la sesión de prueba de Bayley, los niños anémicos hicieron menos intentos de realizar tareas de prueba, fueron menos juguetones y tuvieron menos atención que los niños no anémicos (Lozoff, Klein, Nelson, McClish, Manuel,1998). Por supuesto, es posible que estos comportamientos se deban a entornos privados. En Jamaica, se encontró un comportamiento similar en niños desnutridos y el comportamiento se modificó solo con la estimulación, sin cambiar el estado nutricional de los niños (Grantham-Mcgregor, Schofield, Haggard 1989).\n</p><p>(Lozoff B. 2007) Un estudio de la India informó que los preescolares que sufrían de anemia eran más lentos en mostrar un efecto positivo, tenían miedo a juguetes nuevos y tenían un comportamiento menos social con sus madres. (Galler J.R. 2011) También se encontró niños previamente desnutridos los cuales mostraron niveles más altos de agresividad hacia niños de 9 y 15 años que entre los de 11 y 17 años independientemente de la edad, sexo, estilo de vida.\n</p><p>\n</p><p><b>¿Qué tan acertada y precisa es la relación entre causa y efecto?\n</b></p><p>Se realizó una encuesta en china en el 2004 a niños chinos, esta encuesta mostró que la prevalencia de anemia estaba entre el 8% y 21% en lactantes hasta los 36 meses. En este estudio participaron 106 niños en preescolar, 58.2% niños y 41.8% niñas. Se sabe que los niños que participaron en este estudio no tenían más de 6 años ya que los niños mayores a esta edad no se consideran adecuados para el CBCL (Lista de control de comportamiento infantil). De estos 106 niños, 98 tuvieron datos completos (niveles de Hb, comportamiento y adversidad social).\n</p><p>Cabe mencionar que este estudio tuvo varias limitaciones. Primero, la muestra del estado de Hb fue relativamente pequeño, cabe resaltar que en los niveles bajos de Hb los niños no podrían ser clasificados como anémicos; sin embargo, incluso en niños con Hb normal, se puede observar la relación entre Hb y las conductas de externalización.\n</p><p>Segundo, no está claro que causo exactamente los niveles bajos de Hb en los niños que participaron del estudio. Es necesario señalar que la mayoría de los estudios sobre la anemia y el comportamiento de los niños utilizaron niveles de Hb durante los primeros años de infancia, este estudio tomó la Hb a niños con edad de 4 años. Por lo tanto, no es seguro saber si esos niveles bajos de Hb se transfirieron a la anemia infantil.\n</p><p>Por último, es posible que los niveles bajos de Hb sean por una desnutrición general. Además, no incluyeron el estado de hierro en los estudios u otros indicadores con talla o peso.\n</p><p>El estudio encontró que los niveles más bajos de Hb a los 4 años son asociadas con los puntajes más altos de problemas de comportamiento externo a los 6 años. Además, la relación entre Hb y el comportamiento de externalización no se ve confundida por la adversidad social. Por último, se observó una diferencia de sexo en la relación de Hb y los problemas de comportamiento en relación con la adversidad social (Jianhua Su, 2016).\n</p><p><b>\n</b></p><p><b>En síntesis, </b>la anemia tiene una repercusión significativa en la morfología cerebral, neuroquímica y moléculas bioenergéticas. Se observó un cambio en las estructuras del cerebro debido a que el hierro es importante para la neurogénesis, que implica una disminución en la red de conexiones interneuronales; así como un cambio en los niveles de dopamina y noradrenalina; esto, para diversos autores, hizo posible observar que regresaron a sus niveles normales una vez que se restauró el suplemento de hierro (Beard, 2008). Ambas hormonas se constituyen como determinantes para el desarrollo de la mayoría de las actividades cotidianas del individuo. En adición a ello, un estudio de McCann y Ames, que relaciona la deficiencia de hierro con el desarrollo cognitivo durante los primeros años de vida, exhibe que persiste; sin embargo, se estima que aún no existe una conexión causa-efecto explícita entre uno y otro (McCann y Ames, 2007). Este desarrollo cognitivo, a la vez, está ligada a los logros educativos, vida futura y productividad de los individuos; es decir, el potencial económico en la población (Low, 2013). \n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Efectos en el desarrollo cognitivo\n</b></p><p>El hierro está implicado en procesos neuronales, por ello al haber disminución de hierro se ven afectados procesos neuronales que afectan al desarrollo cognitivo del niño y que lo afectará en su vida adulta [6] . Durante los dos primeros años existe mayor vulnerabilidad a un daño cognitivo causado por anemia, debido a los cambios anatómicos y bioquímicos.  \n</p><p>La deficiencia de hierro afecta la regulación y la conducción de neurotransmisores como son la serotonina, la dopamina y el ácido gamma aminobutírico (GABA). Estos neurotransmisores afectan la respuesta de los niños con el ambiente que los rodea y su interacción con este. (ambiente social, afectivo y estímulos externos) [6]\n</p><p>En un estudio para Israel (Palti et. al 1985) encuentran evidencia de los efectos a largo plazo de la anemia por deficiencia de hierro, compararon exámenes de inteligencia a niños de 10 años que padecieron de anemia en una edad muy temprana con las que no también. Los niños que tuvieron anemia durante sus primeros nueve meses de vida, a los 10 a 13 años, tenían en dichas pruebas 2.2 puntos menos que los niños que no tuvieron anemia. También (Walter et al. 1989, 1990) encontraron que después de curarse de la anemia el efecto negativo en el desarrollo cognitivo no se revierte ya que esos niños siguen teniendo menores puntajes en las pruebas de desarrollo cognitivo. Estos autores también encontraron que cuando los niños tienen 5 años y padecieron de anemia en los 12 primeros meses de vida tenían en promedio un coeficiente intelectual 5 puntos menos de los que no lo padecieron.  De una igual manera Cantwell (1974) encontró en un grupo de niños en Estados Unidos que padecieron de anemia en los 6 y 18 primeros meses de vida obtenían un puntaje de coeficiente intelectual en promedio 6 puntos menor en comparación de los niños que no sufrieron anemia. Por otro lado, Lozoff (et. Al 1991) encontró que niños que padecieron de anemia entre los 12 y 23 meses de vida obtuvieron 4.1 puntos menos en las pruebas de habilidad cognitiva a los 5 años de edad. \n</p><p><b>\n</b></p><p><b>Efectos en el desarrollo conductual\n</b></p><p>Existen varios estudios que han reportado diferencias en la conducta del bebé con anemia, los cuales incluyen fatiga, temor y un apego hacia la madre (Lozoff B 1986,2011; Walter T 1983,1989,). Al igual de mostrar anomalías como irritabilidad, inquietud y falta de atención (Grantham-McGregor 2001, Lozoff B 1986,1998, Yehuda S 2008).\n</p><p>Los niños anémicos exploran y se mueven alrededor de su entorno menos que los niños no anémicos, e inducen un comportamiento menos estimulante en sus cuidadores. Se piensa que estos comportamientos y la respuesta de los cuidadores retrasan la adquisición de nuevas habilidades (Sally Grantham, Cornelius Ani, 2001).\n</p><p>Hay muchos informes de impresiones clínicas de niños anémicos que están temerosos. Se han realizado observaciones más sistemáticas en comparación con niños anémicos y no anémicos durante las pruebas con las escalas de Bayley, utilizando las calificaciones de comportamiento infantil de Bayley. Estos estudios han encontrado que los niños anémicos tienden a ser más temerosos, retraídos, tensos, poco reactivos a los estímulos habituales (Lozoff, Brittenham, Viteri, Urrutia,1982), más solemnes, menos involucrados (Honig, Oski 1984) y más infelices (Walter, Kovalskys, Stekel 1983).\n</p><p>En un estudio más extenso, se realizaron observaciones de comportamiento en una situación de juego libre de 15 minutos y durante las pruebas de desarrollo. Los niños con anemia se mantuvieron más cerca de sus cuidadores, mostraron menos placer y se mostraron más cautelosos, vacilantes y fácilmente cansados. También se realizaron un promedio de 14 observaciones puntuales durante las visitas domiciliarias, y los niños anémicos tenían más probabilidades de estar dormidos, irritables, no hacer nada, ser transportados o en la cama, y menos propensos a estar en el patio o jugar interactivamente con objetos. Durante la sesión de prueba de Bayley, los niños anémicos hicieron menos intentos de realizar tareas de prueba, fueron menos juguetones y tuvieron menos atención que los niños no anémicos (Lozoff, Klein, Nelson, McClish, Manuel,1998). Por supuesto, es posible que estos comportamientos se deban a entornos privados. En Jamaica, se encontró un comportamiento similar en niños desnutridos y el comportamiento se modificó solo con la estimulación, sin cambiar el estado nutricional de los niños (Grantham-Mcgregor, Schofield, Haggard 1989).\n</p><p>(Lozoff B. 2007) Un estudio de la India informó que los preescolares que sufrían de anemia eran más lentos en mostrar un efecto positivo, tenían miedo a juguetes nuevos y tenían un comportamiento menos social con sus madres. (Galler J.R. 2011) También se encontró niños previamente desnutridos los cuales mostraron niveles más altos de agresividad hacia niños de 9 y 15 años que entre los de 11 y 17 años independientemente de la edad, sexo, estilo de vida.\n</p><p>\n</p><p><b>¿Qué tan acertada y precisa es la relación entre causa y efecto?\n</b></p><p>Se realizó una encuesta en china en el 2004 a niños chinos, esta encuesta mostró que la prevalencia de anemia estaba entre el 8% y 21% en lactantes hasta los 36 meses. En este estudio participaron 106 niños en preescolar, 58.2% niños y 41.8% niñas. Se sabe que los niños que participaron en este estudio no tenían más de 6 años ya que los niños mayores a esta edad no se consideran adecuados para el CBCL (Lista de control de comportamiento infantil). De estos 106 niños, 98 tuvieron datos completos (niveles de Hb, comportamiento y adversidad social).\n</p><p>Cabe mencionar que este estudio tuvo varias limitaciones. Primero, la muestra del estado de Hb fue relativamente pequeño, cabe resaltar que en los niveles bajos de Hb los niños no podrían ser clasificados como anémicos; sin embargo, incluso en niños con Hb normal, se puede observar la relación entre Hb y las conductas de externalización.\n</p><p>Segundo, no está claro que causo exactamente los niveles bajos de Hb en los niños que participaron del estudio. Es necesario señalar que la mayoría de los estudios sobre la anemia y el comportamiento de los niños utilizaron niveles de Hb durante los primeros años de infancia, este estudio tomó la Hb a niños con edad de 4 años. Por lo tanto, no es seguro saber si esos niveles bajos de Hb se transfirieron a la anemia infantil.\n</p><p>Por último, es posible que los niveles bajos de Hb sean por una desnutrición general. Además, no incluyeron el estado de hierro en los estudios u otros indicadores con talla o peso.\n</p><p>El estudio encontró que los niveles más bajos de Hb a los 4 años son asociadas con los puntajes más altos de problemas de comportamiento externo a los 6 años. Además, la relación entre Hb y el comportamiento de externalización no se ve confundida por la adversidad social. Por último, se observó una diferencia de sexo en la relación de Hb y los problemas de comportamiento en relación con la adversidad social (Jianhua Su, 2016).\n</p><p><b>\n</b></p><p><b>En síntesis, </b>la anemia tiene una repercusión significativa en la morfología cerebral, neuroquímica y moléculas bioenergéticas. Se observó un cambio en las estructuras del cerebro debido a que el hierro es importante para la neurogénesis, que implica una disminución en la red de conexiones interneuronales; así como un cambio en los niveles de dopamina y noradrenalina; esto, para diversos autores, hizo posible observar que regresaron a sus niveles normales una vez que se restauró el suplemento de hierro (Beard, 2008). Ambas hormonas se constituyen como determinantes para el desarrollo de la mayoría de las actividades cotidianas del individuo. En adición a ello, un estudio de McCann y Ames, que relaciona la deficiencia de hierro con el desarrollo cognitivo durante los primeros años de vida, exhibe que persiste; sin embargo, se estima que aún no existe una conexión causa-efecto explícita entre uno y otro (McCann y Ames, 2007). Este desarrollo cognitivo, a la vez, está ligada a los logros educativos, vida futura y productividad de los individuos; es decir, el potencial económico en la población (Low, 2013). \n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r6Xp5KoFFw",
           "_anchor": "content1-10",
           "_protectedParams": [],
@@ -4506,6 +4506,7 @@
           "_name": "slider2",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Width\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"81\" inline>\n        <input type=\"range\" title=\"Height\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"400\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
           "_cid": "r7bjgc4Qz5",
+          "_anchor": "slider2-e",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -4571,8 +4572,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               }
             ]
-          },
-          "_anchor": "slider2-e"
+          }
         },
         {
           "_styles": {
@@ -4584,13 +4584,127 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Grafico 1. </b>Prevalencia de anemia en menores de cinco años. Gráficos comparativos entre Argentina, Chile y México frente a Perú. <i>Fuente: Banco Mundial (2018).</i></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Grafico 1. </b>Prevalencia de anemia en menores de cinco años. Gráficos comparativos entre Argentina, Chile y México frente a Perú. <i>Fuente: Banco Mundial (2018).</i></p><p><i><br></i></p><p><b>Relación entre anemia y desarrollo educativo</b></p><p>La anemia provoca en los niños deficiencias cognitivas a largo plazo, reduciendo capacidades cognitivas y sociales; como se observa en el cuadro () existe un porcentaje considerable de repitencia en Perú, México, Argentina y Chile. Esto podría deberse a distintos factores, de entre los cuales la anemia es parte, ya que estos países presentan una prevalencia de anemia moderada (20,0% - 39.9%).&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r7bkq7oq5l",
+          "_anchor": "content1-f",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image1",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/tabla-2-957x320.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_cid": "r7bogIvCw1",
+          "_anchor": "image1-g",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Tabla 2.</b> Porcentaje de escolares repitentes durante el 2016. <i>Fuente: elaboración propia</i></p><p><br></p><p><b>Ejemplificación en la prueba PISA</b></p><p>Los resultados anteriores se pueden contrastar en el examen PISA, el cual mide el nivel de conocimientos en las áreas de ciencias, matemáticas y comprensión lectora. La prevalencia de anemia puede tener cierta relación con el puesto en el ranking PISA del año 2015 debido a que la prevalencia de anemia en Chile, Argentina, México y Perú es 20%, 22.2%, 28.2% y 31.9% respectivamente.&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7boszTxsV",
+          "_anchor": "content1-h",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image1",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"45\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/tabla-612x248.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_cid": "r7bpt7aFYg",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "content1-f"
+          "_anchor": "image1-i"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Tabla 2. </b>Cuadro comparativo de posicionamiento en la prueba PISA de 2015. Fuente: elaboración propia.</div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7bqFAMvMC",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-j"
         },
         {
           "_styles": {
@@ -4624,6 +4738,21 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">DECONSTRUYENDO EL PROBLEMA</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">BIBLIOGRAFÍA</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7brmO0n8V",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-k"
         },
         {
           "_styles": {
